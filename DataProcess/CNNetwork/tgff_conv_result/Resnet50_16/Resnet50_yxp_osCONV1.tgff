@@ -1,0 +1,62 @@
+@HYPERPERIOD 9207
+
+@TASK_GRAPH 0 {
+    PERIOD 9207
+
+   TASK t0_0   TYPE 0
+   TASK t0_1   TYPE 0
+   TASK t0_2   TYPE 0
+   TASK t0_3   TYPE 0
+   TASK t0_4   TYPE 0
+   TASK t0_5   TYPE 0
+   TASK t0_6   TYPE 0
+   TASK t0_7   TYPE 0
+   TASK t0_8   TYPE 0
+   TASK t0_9   TYPE 0
+   TASK t0_10   TYPE 0
+   TASK t0_11   TYPE 0
+   TASK t0_12   TYPE 0
+   TASK t0_13   TYPE 0
+   TASK t0_14   TYPE 0
+   TASK t0_15   TYPE 0
+   TASK t0_16   TYPE 0
+   TASK t0_17   TYPE 0
+   TASK t0_18   TYPE 0
+
+   ARC a0_a0_0    FROM  t0_0  TO  t0_1 TYPE 1
+   ARC a0_a0_1    FROM  t0_0  TO  t0_2 TYPE 1
+   ARC a0_a0_2    FROM  t0_0  TO  t0_3 TYPE 1
+   ARC a0_a0_3    FROM  t0_0  TO  t0_4 TYPE 1
+   ARC a0_a0_4    FROM  t0_0  TO  t0_5 TYPE 1
+   ARC a0_a0_5    FROM  t0_0  TO  t0_6 TYPE 1
+   ARC a0_a0_6    FROM  t0_0  TO  t0_7 TYPE 1
+   ARC a0_a0_7    FROM  t0_0  TO  t0_8 TYPE 1
+   ARC a0_a0_8    FROM  t0_0  TO  t0_9 TYPE 1
+   ARC a0_a0_9    FROM  t0_0  TO  t0_10 TYPE 1
+   ARC a0_a0_10    FROM  t0_0  TO  t0_11 TYPE 1
+   ARC a0_a0_11    FROM  t0_0  TO  t0_12 TYPE 1
+   ARC a0_a0_12    FROM  t0_0  TO  t0_13 TYPE 1
+   ARC a0_a0_13    FROM  t0_0  TO  t0_14 TYPE 1
+   ARC a0_a0_14    FROM  t0_0  TO  t0_15 TYPE 1
+   ARC a0_a0_15    FROM  t0_1  TO  t0_16 TYPE 2
+   ARC a0_a0_16    FROM  t0_2  TO  t0_16 TYPE 2
+   ARC a0_a0_17    FROM  t0_3  TO  t0_16 TYPE 2
+   ARC a0_a0_18    FROM  t0_4  TO  t0_16 TYPE 2
+   ARC a0_a0_19    FROM  t0_5  TO  t0_16 TYPE 2
+   ARC a0_a0_20    FROM  t0_6  TO  t0_16 TYPE 2
+   ARC a0_a0_21    FROM  t0_7  TO  t0_16 TYPE 2
+   ARC a0_a0_22    FROM  t0_9  TO  t0_17 TYPE 2
+   ARC a0_a0_23    FROM  t0_10  TO  t0_17 TYPE 2
+   ARC a0_a0_24    FROM  t0_11  TO  t0_17 TYPE 2
+   ARC a0_a0_25    FROM  t0_12  TO  t0_17 TYPE 2
+   ARC a0_a0_26    FROM  t0_13  TO  t0_17 TYPE 2
+   ARC a0_a0_27    FROM  t0_14  TO  t0_17 TYPE 2
+   ARC a0_a0_28    FROM  t0_15  TO  t0_17 TYPE 2
+   ARC a0_a0_29    FROM  t0_17  TO  t0_18 TYPE 2
+   ARC a0_a0_30    FROM  t0_16  TO  t0_18 TYPE 2
+}
+66#------------------------------------------------------------------------------
+# type  exec_time
+    0    6504975
+    1    2283423
+    2    395052
